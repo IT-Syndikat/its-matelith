@@ -1,4 +1,3 @@
-its-matelith
-============
+# Matelith
 
 Mate vending machine enhancements
